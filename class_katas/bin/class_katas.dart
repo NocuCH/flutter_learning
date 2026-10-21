@@ -1,9 +1,6 @@
 import 'w0_basics.dart';
 void main(List<String> arguments) {
-  print(greet("Kevin"));
-
-  print(greet('Kevin', true));
-
+  print(formatePrice(12.3));
 }
 
-//TODO Warmup 0.2
+
